@@ -63,7 +63,7 @@ text-decoration: none;
 }
 
 .about{
-
+    
     margin: 104px auto 85px;
 }
 .adout__title{
@@ -112,7 +112,7 @@ text-decoration: none;
     
     }
     .nav__li2:not(:first-of-type){
-        margin-left: 182.45px;
+        margin-left: 142.45px;
     }
     .nav__link2{
         font-weight: 700;
@@ -127,4 +127,8 @@ text-decoration: none;
         transition: 300ms;
     }
 
-    
+    .footer__flex{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
